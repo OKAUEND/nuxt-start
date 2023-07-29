@@ -1,3 +1,3 @@
 <template>
-  <div>TEST Nuxt Pages</div>
+  <div>TEST About Pages</div>
 </template>
